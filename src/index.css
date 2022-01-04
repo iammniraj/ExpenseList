@@ -1,0 +1,12 @@
+@import url('https://fonts.google.com/noto/specimen/Noto+Sans');
+
+body{
+    background-color:#b7ffd5;
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Noto Sans', sans-serif;
+}
